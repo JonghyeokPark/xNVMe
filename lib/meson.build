@@ -1,4 +1,5 @@
 xnvmelib_source = [
+  'xnvme_flashalloc.c',
   'xnvme_3p.c',
   'xnvme_3p_ver.c',
   'xnvme_adm.c',

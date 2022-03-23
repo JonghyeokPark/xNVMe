@@ -1,5 +1,6 @@
 xnvme_inc = include_directories('.')
 
+install_headers('libxnvme_flashalloc.h')
 install_headers('libxnvme.h')
 install_headers('libxnvme_3p.h')
 install_headers('libxnvme_adm.h')
